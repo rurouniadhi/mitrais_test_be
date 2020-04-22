@@ -24,7 +24,8 @@ open root project in yor cmd/terminal, and run the following command.\
 ```node```\
 ```require('crypto').randomBytes(64).toString('hex')```\
 copy generated string, and paste as your ACCESS_TOKEN_SECRET
-
+# Setting Database
+run sql script located in ```config/mitrais_test_db.sql``` ( recommended using MySQL Workbench )
 # Running Locally
 and finnaly run the apps with :\
 ``` npm start```
