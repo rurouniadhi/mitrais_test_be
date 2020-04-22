@@ -1,4 +1,4 @@
-# RESTful Authentication
+# RESTful Api Authentication
 Sample RESTful api Authentication using Node.js, Express and MySQL.
 This project created for test purpose only.
 
